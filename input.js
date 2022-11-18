@@ -1,1 +1,0 @@
-const startInput = document.querySelector('#startPoint');
